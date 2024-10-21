@@ -1,9 +1,8 @@
 # udemig-tour-project
-##Html ve Cesur kulanılarak tasarım yapılmıştır
-###Responsive tasarım yapılarak tüm ekran boyutlarına uygun hale getirilmiştir
+##Html ve Css teknolojisi kulanılarak tasarım yapılmıştır
+Responsive tasarım yapılarak tüm ekran boyutlarına uygun hale getirilmiştir
 
-
-####tanıtım gif
+tanıtım gif
 
 
 
