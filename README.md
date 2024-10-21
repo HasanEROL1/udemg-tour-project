@@ -1,9 +1,12 @@
 # udemig-tour-project
 ##Html ve Cesur kulanılarak tasarım yapılmıştır
-##Responsive tasarım yapılarak tüm ekran boyutlarına uygun hale getirilmiştir
+###Responsive tasarım yapılarak tüm ekran boyutlarına uygun hale getirilmiştir
 
 
-##tanıtım gif
+####tanıtım gif
+
+
+
 https://github.com/user-attachments/assets/fff4e725-c19f-4c3d-99af-2d2edcce111b
 
 
